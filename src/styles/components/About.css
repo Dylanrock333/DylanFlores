@@ -28,6 +28,16 @@
   color: #757575;
 }
 
+/* New style for the profile photo */
+.profile-photo-class {
+  width: 200px; /* Or your desired width */
+  height: 200px; /* Or your desired height */
+  border-radius: 50%; /* To make it circular like the placeholder */
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+  border: 3px solid #fff; /* Optional: adds a white border */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: adds a subtle shadow */
+}
+
 @media (max-width: 768px) {
   .about-content {
     flex-direction: column;
