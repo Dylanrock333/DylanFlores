@@ -9,31 +9,39 @@ function Resume() {
       <div className="resume-section">
         <h3>Education</h3>
         <div className="resume-item">
-          <h4>Degree Name</h4>
-          <p className="institution">Institution Name</p>
-          <p className="period">2018 - 2022</p>
-          <p>Brief description of your education, achievements, etc.</p>
+          <h4>Bachelor of Science in Computer Science</h4>
+          <p className="institution">Texas State University</p>
+          <p className="period">Class of 2023</p>
         </div>
       </div>
       
       <div className="resume-section">
         <h3>Experience</h3>
         <div className="resume-item">
-          <h4>Job Title</h4>
-          <p className="institution">Company Name</p>
-          <p className="period">2022 - Present</p>
-          <p>Description of your responsibilities and achievements.</p>
+          <h4>Data Engineer</h4>
+          <p className="institution">USAA</p>
+          <p className="period">2024 - Present</p>
+          <p>
+            Developed user interfaces and APIs for business automation projects, enhancing
+            operational efficiency. Engineered and optimized data schemas and DDL scripts to ensure
+
+            robust, scalable database structures for application development. Collaborated with cross-
+            functional teams, including data scientists, product managers, and stakeholders, to deliver
+
+            data solutions aligned with organizational goals. Engineered data pipelines and schemas
+            supporting AI applications while collaborating with data scientists to implement
+            production-ready solutions.
+          </p>
         </div>
       </div>
       
       <div className="resume-section">
         <h3>Skills</h3>
         <ul className="skills-list">
-          <li>Skill 1</li>
-          <li>Skill 2</li>
-          <li>Skill 3</li>
-          <li>Skill 4</li>
-          <li>Skill 5</li>
+          <li>Programing Languages: Python, Java, JavaScript, SQL</li>
+          <li>Tools: React, SpringBoot, Gradle, Pandas, FastAPI, LangChain, Streamlit, YOLO</li>
+          <li>Platforms: Control-M, Openshift, HuggingFace, SQuirreL SQL</li>
+          <li>Other: Spanish, RESTful APIs, RAGs, Model Development</li>
         </ul>
       </div>
     </section>
