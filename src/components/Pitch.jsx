@@ -4,18 +4,17 @@ import '../styles/components/Pitch.css';
 function Pitch() {
   return (
     <section id="pitch" className="pitch-section">
-      <h2>Pitch</h2>
       <div className="pitch-content">
         <p>
-            Headline:
-                AI-Powered Solutions for Real Business Problems
-                Custom LLM apps & APIs for teams that want to save time, cut costs, and work smarter.
-
-            Subheadline:
-                I build lean, effective AI tools—so you don’t have to guess, hire a team, or waste months figuring it out.
-
-            CTA Button:
-                [Let’s Build Together] → opens form or links to Calendly
+            Custom AI & LLM Solutions That Work for You
+            <br></br>
+            <br></br>
+            I turn business ideas and workflows into real, working AI solutions that automate tasks and drive efficiency. 
+            Get more from your data with tools powered by Large Language Models. 
+            Whether it’s chatbots, retrieval systems, or end-to-end automation—you bring the challenge, I’ll handle the build.
+            <br></br>
+            <br></br>
+            Interested? Let's talk
         </p>
       </div>
     </section>

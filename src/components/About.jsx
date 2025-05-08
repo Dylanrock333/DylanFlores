@@ -8,11 +8,9 @@ function About() {
         <div className="about-text">
           <h2>About Me</h2>
           <p>
-            As an engineer passionate about merging technical expertise with creative innovation, I'm captivated by the transformative potential of artificial intelligence. 
-            Large Language Models can extract meaning from content, restructure information, and make agentic assessments. 
-            The agenticity of AI represents just one example of how these capabilities, when thoughtfully implemented, can revolutionize numerous fields and streamline complex tasks.
-            I'm a developer and AI builder who specializes in creating custom LLM-powered tools for businesses.
-            With a background in data engineering and hands-on experience building fast, scalable apps, I help clients turn messy ideas or internal workflows into AI tools that actually work.
+            I’m an engineer with a passion for merging technical depth and creative innovation to build practical AI solutions. I’m especially focused on Large Language Models—their ability to extract, reshape, and reason over content can unlock real operational value when applied correctly.
+            My work centers on using LLMs to build tools that automate tasks, assist teams, and surface insights from complex or unstructured data. From internal document assistants to custom APIs, I create end-to-end solutions that help businesses turn messy processes into streamlined, intelligent systems.
+            With a background in data engineering and full-stack development, I’ve helped clients bring AI ideas to life quickly, without the need for large teams or long build cycles.
           </p>
         </div>
         <div className="about-image">

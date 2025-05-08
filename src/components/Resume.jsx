@@ -20,7 +20,7 @@ function Resume() {
         <div className="resume-item">
           <h4>Data Engineer</h4>
           <p className="institution">USAA</p>
-          <p className="period">2024 - Present</p>
+          <p className="period">2023 - Present</p>
           <p>
             Developed user interfaces and APIs for business automation projects, enhancing
             operational efficiency. Engineered and optimized data schemas and DDL scripts to ensure
