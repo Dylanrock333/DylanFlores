@@ -6,7 +6,7 @@ function Header() {
     <header className="header">
       <div className="logo">
         <h1>Dylan Flores</h1>
-        <p>Your local Tech Cowboy and Professional 'Hello World' developer</p>
+        <strong>Your local Tech Cowboy and Professional 'Hello World' developer</strong>
       </div>
       <div className="header-contact">
         <a href="mailto:dylanf36200@gmail.com">dylanf36200@gmail.com</a>
