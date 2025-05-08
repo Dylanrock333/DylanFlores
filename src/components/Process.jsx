@@ -4,23 +4,32 @@ import '../styles/components/Process.css';
 function Process() {
   return (
     <section id="process" className="process-section">
-      <h2>Process</h2>
-      <div className="process-content">
-        <p>
-            How I Work With Clients
+      <h2>How It Works</h2>
+      <div className="process-grid">
+        <div className="process-card">
+          <h3>1. Discovery</h3>
+          <p>We'll have a quick call to understand your goals, data, and what success looks like.</p>
+        </div>
 
-            Discovery Call
-            You tell me what you need. I’ll help scope it.
+        <div className="process-card">
+          <h3>2. Proposal</h3>
+          <p>I'll scope the work and send you a plan with pricing, timeline, and deliverables.</p>
+        </div>
 
-            Proposal & Quote
-            Flat pricing with timelines. No hidden fees.
+        <div className="process-card">
+          <h3>3. Build</h3>
+          <p>I'll develop your AI solution (app or API) and send regular updates as we go.</p>
+        </div>
 
-            Build & Deliver
-            I build your custom app/API, and demo it for you.
+        <div className="process-card">
+          <h3>4. Delivery</h3>
+          <p>You get a working solution, full documentation, and optional handoff or deployment support.</p>
+        </div>
 
-            Optional Ongoing Support
-            Monthly updates, hosting, or scale help—only if you want it.
-        </p>
+        <div className="process-card">
+          <h3>5. Support (Optional)</h3>
+          <p>If you want ongoing updates or hosting, I offer monthly support packages.</p>
+        </div>
       </div>
     </section>
   );
