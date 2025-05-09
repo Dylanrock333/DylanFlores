@@ -4,8 +4,6 @@ import '../styles/components/Resume.css';
 function Resume() {
   return (
     <section id="resume" className="resume">
-      <h2>Resume</h2>
-      
       <div className="resume-section">
         <h3>Education</h3>
         <div className="resume-item">
@@ -16,23 +14,11 @@ function Resume() {
       </div>
       
       <div className="resume-section">
-        <h3>Experience</h3>
+        {/* <h3>Experience</h3>
         <div className="resume-item">
           <h4>Data Engineer</h4>
-          <p className="institution">USAA</p>
-          <p className="period">2023 - Present</p>
-          <p>
-            Developed user interfaces and APIs for business automation projects, enhancing
-            operational efficiency. Engineered and optimized data schemas and DDL scripts to ensure
 
-            robust, scalable database structures for application development. Collaborated with cross-
-            functional teams, including data scientists, product managers, and stakeholders, to deliver
-
-            data solutions aligned with organizational goals. Engineered data pipelines and schemas
-            supporting AI applications while collaborating with data scientists to implement
-            production-ready solutions.
-          </p>
-        </div>
+        </div> */}
       </div>
       
       <div className="resume-section">
