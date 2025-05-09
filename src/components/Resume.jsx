@@ -27,7 +27,7 @@ function Resume() {
           <li>Languages: Python, JavaScript, Java, SQL</li>
           <li>Web & Backend: FastAPI, React, Node.js, Spring Boot, RESTful APIs</li>
           <li>Database: PostgreSQL, Snowflake, Vector Databases</li>
-          <li>LLM & AI: LLM API, RAG Pipelines, Prompt Engineering, Embeddings</li>
+          <li>AI: LLM API, RAG Pipelines, Prompt Engineering, Embeddings</li>
         </ul>
       </div>
     </section>
