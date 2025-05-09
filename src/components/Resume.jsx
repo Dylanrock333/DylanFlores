@@ -9,7 +9,7 @@ function Resume() {
         <div className="resume-item">
           <h4>Bachelor in Computer Science</h4>
           <p className="institution">Texas State University</p>
-          <p className="period">Class of 2023</p>
+          {/* <p className="period">Class of 2023</p> */}
         </div>
       </div>
       
