@@ -15,55 +15,36 @@
 .social-links a {
   display: inline-block;
   margin-right: 15px;
+  margin-top: 20px;
   color: var(--primary-color);
   text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  transition: all 0.3s ease;
   font-weight: 500;
+  border: 1px solid var(--secondary-color);
 }
 
 .social-links a:hover {
-  text-decoration: underline;
+  opacity: 0.4;
 }
 
-.form-group {
-  margin-bottom: 15px;
-}
-
-.form-group label {
-  display: block;
-  margin-bottom: 5px;
-  font-weight: 500;
-}
-
-.form-group input,
-.form-group textarea {
-  width: 100%;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 16px;
-}
-
-.form-group textarea {
-  resize: vertical;
-}
-
-.contact-form button {
-  padding: 10px 20px;
-  background-color: var(--primary-color);
-  color: white;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 16px;
-  transition: background-color 0.3s;
-}
-
-.contact-form button:hover {
-  background-color: var(--secondary-color);
-}
 
 @media (max-width: 768px) {
   .contact-content {
     flex-direction: column;
   }
 } 
+
+.header-contact a {
+  font-size: 1em;
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.header-contact a:hover {
+  text-decoration: underline;
+  color: var(--secondary-color);
+}

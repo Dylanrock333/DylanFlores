@@ -20,7 +20,7 @@ function Projects() {
         </div>
         
         <div className="project-card">
-          <h3>Movie & TV Show Rating Matcher </h3>
+          <h3>Movie & TV Show Rating Matcher</h3>
           <p>
             Developed a website using React and FastAPI that integrates The Movie Database API to fetch 
             current movies and TV shows and match them with their Rotten Tomatoes scores. The user can filter 
