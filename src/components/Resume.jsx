@@ -38,10 +38,10 @@ function Resume() {
       <div className="resume-section">
         <h3>Skills</h3>
         <ul className="skills-list">
-          <li>Programing Languages: Python, Java, JavaScript, SQL</li>
-          <li>Tools: React, SpringBoot, Gradle, Pandas, FastAPI, LangChain, Streamlit, YOLO</li>
-          <li>Platforms: Control-M, Openshift, HuggingFace, SQuirreL SQL</li>
-          <li>Other: Spanish, RESTful APIs, RAGs, Model Development</li>
+          <li>Languages: Python, JavaScript, Java, SQL</li>
+          <li>Web & Backend: FastAPI, React, Node.js, Spring Boot, RESTful APIs</li>
+          <li>Database: PostgreSQL, Snowflake, Vector Databases</li>
+          <li>LLM & AI: LLM API, RAG Pipelines, Prompt Engineering, Embeddings</li>
         </ul>
       </div>
     </section>
